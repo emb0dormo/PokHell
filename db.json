@@ -1,6 +1,5 @@
 {
-[
-  pokemons: {
+  pokemons: [{
     "Name": "Venusaur",
     "Type1": "Grass",
     "Type2": "Poison",
