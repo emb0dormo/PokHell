@@ -1,5 +1,5 @@
-{
-  pokemons: {
+[
+  {
     "Name": "Venusaur",
     "Type1": "Grass",
     "Type2": "Poison",
@@ -71,4 +71,4 @@
     "Evolution": "Jynx is the evolved form of Smoochum as of level 30.",
     "image_url": "https://static.wikia.nocookie.net/pokemon/images/a/a8/124.png"
   }
-}
+]
